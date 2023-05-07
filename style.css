@@ -1,0 +1,42 @@
+body{
+background-color: rgb(220, 201, 78);
+font-family: 'Are You Serious', cursive;
+font-family: 'Sigmar', cursive;
+font-weight:bolder;
+}
+    
+.header_div{
+background-color: lightgray;
+color: rgb(158, 237, 249);
+top: 0px;
+margin-top: 0px;
+}
+    
+.header_div p{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(78, 50, 204);
+font-size: 12px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+
+.main_div button{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+width: 150px;
+font-weight: bolder;
+font-size: 20px;
+letter-spacing: 3px;
+margin-top: 30px;
+}
+        
+.copy_right_footer{
+bottom: 0;
+text-align: center;
+position: fixed;
+background-color: rgb(213, 110, 127);
+color: rgb(57, 248, 255);
+width: 100%;
+font-size: 25px;
+line-height: 3;
+text-shadow: 5px 5px 5px gray;
+}
